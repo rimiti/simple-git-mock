@@ -1,0 +1,18 @@
+{
+  "name": "simple-git-mock",
+  "version": "1.0.0",
+  "description": "simple-git Jest Mock example",
+  "main": "index.js",
+  "repository": "git@github.com:rimiti/simple-git-mock.git",
+  "author": "Dimitri DO BAIRRO <dimitri.dobairro@dimsolution.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^2.37.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
