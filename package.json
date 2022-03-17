@@ -7,7 +7,7 @@
   "author": "Dimitri DO BAIRRO <dimitri.dobairro@dimsolution.com>",
   "license": "MIT",
   "dependencies": {
-    "simple-git": "^2.37.0"
+    "simple-git": "^3.3.0"
   },
   "devDependencies": {
     "jest": "^26.6.3"
